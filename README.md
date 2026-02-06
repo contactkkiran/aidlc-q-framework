@@ -3,7 +3,7 @@
 # AIDLC-Q™ – AI-Driven Development & Quality Lifecycle
 
 **Created by: Kiran Kumar Kanumuri**
-![AIDLC-Q Lifecycle](Docs/aidlc-lifecycle.png)
+![AIDLC-Q Lifecycle](Docs/aidlcq-lifecycle.png)
 
 
 > **Important clarification:**  
