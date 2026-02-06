@@ -4,7 +4,7 @@
 
 **Created by: Kiran Kumar Kanumuri**
 
-![AIDLC-Q Lifecycle](Docs/AIDLC-lifecycle.png)
+![AIDLC Lifecycle](Docs/AIDLC-lifecycle.png)
 
 
 > **Important clarification:**  
