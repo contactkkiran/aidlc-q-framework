@@ -149,6 +149,89 @@ Adoption is **incremental and low-risk**.
 
 ---
 
+# AIDLC-Q Framework with Playwright
+
+## Overview
+AIDLC-Q (AI-Driven Development Lifecycle with Quality Engineering) is a modern approach to software development where AI is embedded across every phase of the lifecycle to ensure continuous quality, faster delivery, and intelligent automation. It integrates technologies like LLMs, RAG, and Playwright to build a self-improving testing ecosystem.
+
+---
+
+## Phase-wise Importance & What It Ensures
+
+### 1. Design Phase (AI-Assisted Design)
+**Why it matters:**
+- Converts user stories into testable scenarios
+- Reduces ambiguity in requirements
+- Identifies risks early
+
+**Ensures:**
+- Requirement clarity
+- Early test coverage
+- Better design decisions
+
+---
+
+### 2. Develop Phase (AI-Augmented Development)
+**Why it matters:**
+- Assists in code generation and reviews
+- Enforces coding standards
+- Reduces human errors
+
+**Ensures:**
+- Faster development
+- Improved code quality
+- Reduced defect leakage
+
+---
+
+### 3. Test Phase (AI + Playwright Automation)
+**Why it matters:**
+- Auto-generates test cases using LLM + RAG
+- Enables self-healing automation
+- Supports cross-browser testing via Playwright
+
+**Ensures:**
+- High test coverage
+- Stable and maintainable automation
+- Faster feedback cycles
+
+---
+
+### 4. Deploy Phase (Intelligent CI/CD)
+**Why it matters:**
+- AI-driven quality gates
+- Risk-based deployment decisions
+- Continuous integration with validation
+
+**Ensures:**
+- Safe releases
+- Reduced production defects
+- Data-driven deployments
+
+---
+
+### 5. Monitor Phase (Continuous Feedback Loop)
+**Why it matters:**
+- Tracks real-time system behavior
+- Detects anomalies using AI
+- Feeds insights back into the lifecycle
+
+**Ensures:**
+- Continuous improvement
+- Faster incident resolution
+- Self-learning system
+
+---
+
+## Key Benefits
+- End-to-end quality engineering
+- Faster and reliable releases
+- Reduced cost of defects
+- Scalable automation with Playwright
+- Continuous learning and optimization
+
+---
+
 ## 📎 Attribution & Usage
 
 When referencing this framework, please use:
