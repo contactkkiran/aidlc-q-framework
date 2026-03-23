@@ -152,9 +152,7 @@ Adoption is **incremental and low-risk**.
 # AIDLC-Q Framework with Playwright
 
 ## Architecture Diagram
-<p align="center">
-  <img src="./AIDLC%20Q%20Playwright.png" alt="AIDLC-Q Playwright Architecture" width="800"/>
-</p>
+![AIDLC-Q Playwright](Docs/AIDLC%20Q%20Playwright.png)
 
 ## Overview
 AIDLC-Q (AI-Driven Development Lifecycle with Quality Engineering) is a modern approach to software development where AI is embedded across every phase of the lifecycle to ensure continuous quality, faster delivery, and intelligent automation. It integrates technologies like LLMs, RAG, and Playwright to build a self-improving testing ecosystem.
